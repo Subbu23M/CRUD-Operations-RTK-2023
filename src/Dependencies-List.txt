@@ -1,0 +1,17 @@
+1)To install bootstrap@V4
+  npm i bootstrap@4.3.1
+
+2)To install Sass
+  npm install sass --save-dev  
+
+3)To install sweetalert 
+  npm i sweetalert
+
+4)To install lodash.debounce
+  npm i lodash.debounce
+
+5)To install RTK
+  npm i @reduxjs/toolkit
+
+6)To install react-redux(react binders)
+  npm i react-redux
