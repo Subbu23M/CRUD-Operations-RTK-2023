@@ -1,3 +1,5 @@
+import { TodoInput } from "./Components/TodoInput"
+
 export const App = () => {
     return(
         <>
@@ -5,6 +7,7 @@ export const App = () => {
                 CRUD Operations 
             </h3>
             <div className="underline mx-auto bg-secondary"></div>
+            <TodoInput/>
         </>
     )
 }
